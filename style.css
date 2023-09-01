@@ -1,0 +1,361 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.logo{
+    width: 100%;
+}
+.navbar{
+    list-style-type: none;
+}
+.nav-link{
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: gray;
+}
+.nav-link:hover{
+    text-decoration: underline;
+}
+.slider1{
+    width: 100%;
+    height: 800px;
+    text-align: center;
+    background-image: url('images/pic2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.slider1 h1{
+    font-size: 50px;
+    font-family: sans-serif;
+    margin-top: 100px;
+    font-weight: 600;
+    color: black;
+}
+.slider1 p{
+    margin-top: 50px;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: black;
+}
+.slider1 .btn{
+    border-radius: 100px;
+    padding: 10px;
+    border: 1px solid white;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 10px;
+    color: azure;
+    
+}
+.btn:hover{
+    background-color: aquamarine;
+    color: black;
+}
+.slider2{
+    width: 100%;
+    height: 800px;
+    text-align: center;
+    background-image: url('images/pic1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.slider2 h1{
+    font-size: 50px;
+    font-family: sans-serif;
+    margin-top: 100px;
+    font-weight: 600;
+    color: black;
+}
+.slider2 p{
+    margin-top: 50px;
+    font-family: sans-serif;
+    font-size: 30px; 
+    color: black;
+}
+.slider2 .btn{
+    border-radius: 100px;
+    padding: 10px;
+    border: 1px solid white;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 10px;
+    color: azure;
+    
+}
+.slider3{
+    width: 100%;
+    height: 800px;
+    text-align: center;
+    background-image: url('images/pic3.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.slider3 h1{
+    font-size: 50px;
+    font-family: sans-serif;
+    margin-top: 100px;
+    font-weight: 600;
+    color: black;
+}
+.slider3 p{
+    margin-top: 50px;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: black; 
+}
+.slider3 .btn{
+    border-radius: 100px;
+    padding: 10px;
+    border: 1px solid white;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 10px;
+    color: azure;
+    
+}
+.box h2{
+    font-size: 18px;
+    color: #444;
+    line-height: 1.66667em;
+    font-weight: 700;
+}
+.box p{
+    font-family: Raleway,sans-serif;
+    font-size: 15px;
+    line-height: 28px;
+    color: #797979;
+    font-weight: 400;
+    background-color: #fff;
+}
+.bg0{
+    background-color: #FBFBFB;
+}
+.count h1{
+    font-size: 68px;
+    line-height: 1em;
+    font-weight: 300;
+    color: #66dbc9;
+    overflow: hidden;
+    display: inline-block!important;
+    height: 1em;
+    text-align: center;
+}
+.count p{
+ font-size: 20px;
+}
+.text-box{
+    text-align: justify;
+    height: 60vh;
+}
+.text-box h1{
+    font-size: 26px;
+    line-height: 1.308em;
+    font-weight: 700;
+    color: #444;
+    padding: 30px;
+    margin-top: 30px;
+    color: white;
+}
+.text-box p{
+    font-family: Raleway,sans-serif;
+    font-size: 15px;
+    line-height: 28px;
+    color: white;
+    font-weight: 400;
+    padding: 30px;
+    margin-top: -20px;
+}
+.text-box .btn{
+    font-weight: 500;
+    color: white;
+    padding: 15px;
+    border: 1px solid dimgray;
+    border-radius: 100px;
+    margin-left: 30px
+}
+.color1:hover{
+    background-color: dimgray;
+}
+.color2:hover{
+    background-color: slategray;
+}
+.color3:hover{
+    background-color: aquamarine;
+}
+.smallslider{
+    height: 35vh;
+}
+.bg{
+    background-image: url('images/neom-9hWJs7iblh8-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 400px;
+}
+.range h1{
+    font-size: 50px;
+    line-height: 1.6em;
+    font-weight: 400;
+    color: #454545;
+    font-weight: bold;
+}
+.range p{
+    color: #fff;
+    line-height: 35px;
+    font-size: 20px;
+}
+.picture1{
+    width: 100%;
+    margin-top: 30px;
+}
+.block h1{
+    font-size: 18px;
+    color: #444;
+    line-height: 1.66667em;
+    font-weight: 700;
+    text-align: center;
+}
+.block p{
+    text-align: center;
+}
+.bg1{
+    background-image: url('images/doctor-banner.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 380px;
+}
+.testimonial h1{
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.slider-1 {
+    text-align: center;
+    width: 70%;
+}
+.slider-1 p{
+    color: white;
+    font-size: 20px;
+}
+.slider-1 h2{
+    color: white;
+}
+.slider-1 span{
+    color: white;
+}
+.slick-slide {
+    display: none;
+    float: left;
+    height: 60%;
+    min-height: 1px;
+    outline: none;
+
+}
+.block-bottom{
+    text-align: center;
+}
+.block-bottom p{
+    font-size: 20px;
+    line-height: 1.6em;
+    font-weight: 400;
+    color: #454545;
+}
+.block-body span{
+    text-decoration: none;
+    color: aqua;
+}
+.block-body a{
+    text-decoration: none;
+}
+.block-body a:hover{
+    text-decoration: underline;
+}
+.block-body h3{
+    font-size: 23px;
+}
+.block-body h3:hover{
+    color: aquamarine;
+}
+.block-body{
+    padding: 10px;
+}
+.border{
+    border-bottom: 1px solid gray;
+}
+.root{
+    display: flex;
+    justify-content: space-between;
+}
+.social-link .fa{
+    font-size: 15px;
+    margin-right: 10px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    border-radius: 100px;
+    padding: 10px;
+}
+.social-link a{
+    text-decoration: none;
+}
+.box-heading h1{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.box-btn a{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+.box-btn:hover{
+    background-color: grey;
+}
+.box-btn{
+    padding: 15px;
+    background-color: aqua;
+    text-align: center;
+    border-radius: 100px;
+    
+}
+.bg2,.bg3{
+    background-color: #454545;
+}
+.footer h3{
+    color: white;
+    font-size: 25px;
+}
+.footer li{
+    list-style-type: none;
+    margin-top: 20px;
+    padding: 10px;
+}
+.footer .fa{
+    margin-right: 10px;
+    color: aqua;
+    font-size: 20px;
+}
+.footer a{
+    text-decoration: none;
+    color: gray;
+}
+.footer-links .fa{
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 100px;
+    background-color: white;
+    color: black;
+}
+.bg3 p{
+    color: grey;
+}
+.pro{
+    float: left;
+}
+.bar{
+    float: right;
+}

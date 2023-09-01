@@ -1,0 +1,231 @@
+@media  screen and (min-width: 1023px) and (max-width: 1244px) {
+    .nav-link{
+        font-size: 15px;
+        font-family: sans-serif;
+        font-weight: 400;
+        color: gray;
+    }
+    .slider1 h1{
+        font-size: 35px;
+    }
+    .slider2 h1{
+        font-size: 35px;
+    }
+    .slider3 h1{
+        font-size: 35px;
+    }
+    .text-box{
+        height: 80vh;
+    }
+    .range h1{
+        font-size: 45px;
+    }
+    .picture1{
+        height: 46vh;
+    }
+    .block-body h3 {
+        font-size: 18px;
+        font-weight: 700;
+    }
+    .social-link .fa{
+        font-size: 10px;
+    }
+    .box-heading h1{
+        font-size: 25px;
+    }
+    .footer-links .fa{
+        font-size: 9px;
+    }
+    
+}
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .nav-link {
+        font-size: 12px;
+        font-family: sans-serif;
+        font-weight: 400;
+        color: gray;
+        padding: 0px;
+    }
+    .slider1 h1{
+        font-size: 35px;
+    }
+    .slider2 h1{
+        font-size: 35px;
+    }
+    .slider3 h1{
+        font-size: 35px;
+    }
+    .box h2{
+        font-size: 16px;
+    }
+    .count p {
+        font-size: 18px;
+    }
+    .text-box{
+        height: 100vh;
+    }
+    .range h1{
+        font-size: 33px;
+    }
+    .range p {
+        color: #fff;
+        line-height: 35px;
+        font-size: 17px;
+    }
+    .picture1{
+        height: 55vh;
+    }
+    .block-body h3 {
+        font-size: 19px;
+    }
+    .social-link .fa{
+        font-size: 9px;
+    }
+    .box-heading h1{
+        font-size: 23px;
+    }
+    .box-btn{
+        font-size: 14px;
+        padding: 20px;
+    }
+}
+@media screen and (min-width: 425px) and (max-width: 767px) {
+    .logo{
+        width: 60%;
+        margin: auto;
+        display: block;
+    }
+    .nav-link{
+        font-size: 14px;
+        
+    }
+    .navbar{
+        margin-top: -30px;
+    }
+    .slider1 h1{
+        font-size: 30px;
+    }
+    .slider1 p{
+        margin-top: 30px;
+    }
+    .slider2 h1{
+        font-size: 30px;
+    }
+    .slider2 p{
+        margin-top: 30px;
+    }
+    .slider3 h1{
+        font-size: 30px;
+    }
+    .slider3 p{
+        margin-top: 30px;
+    }
+    .box h2{
+        text-align: center;
+    }
+    .box p{
+        text-align: center;
+    }
+    .count{
+        text-align: center;
+    }
+    .text-box{
+        height: 70vh;
+    }
+    .range h1{
+        font-size: 38px;
+    }
+    .bg{
+        height: 152vh;
+    }
+    .picture1{
+        height: 65vh;
+    }
+    .box-heading h1{
+        font-size: 20px;
+    }
+}
+@media screen and (min-width: 320px) and (max-width: 425px){
+    .logo{
+        width: 100%;
+    }
+    .navbar{
+        display: none;
+    }
+    .slider1 h1{
+        font-size: 20px;
+    }
+    .slider1 p{
+        margin-top: 20px;
+        font-size: 20px;
+    }
+    .slider2 h1{
+        font-size: 20px;
+    }
+    .slider2 p{
+        margin-top: 20px;
+        font-size: 20px;
+    }
+    .slider3 h1{
+        font-size: 20px;
+    }
+    .slider3 p{
+        margin-top: 20px;
+        font-size: 20px;
+    }
+    .box h2{
+        text-align: center;
+    }
+    .box p{
+        text-align: center;
+    }
+    .count{
+        text-align: center;
+    }
+    .text-box{
+        height: 75vh;
+    }
+    .range h1{
+        font-size: 27px;
+        color: #fff;
+    }
+    .range p{
+        font-size: 16px;
+        color: rgb(124, 96, 96);
+    }
+    .bg{
+        height: 125vh;
+    }
+    .picture1{
+        height: 44vh;
+        margin-top: 0px;
+    }
+    .box h2{
+        text-align: center;
+    }
+    .box p{
+        text-align: center;
+    }
+    .count{
+        text-align: center;
+    }
+    
+    .slider-1 p{
+        font-size: 13px;
+    }
+    .bg1{
+        height: 265px;
+    }
+    .block-bottom p{
+        font-size: 13px;
+    }
+    .block-body h3 {
+        font-size: 21px;
+    }
+    .box-heading h1 {
+        font-size: 21px;
+        font-family: sans-serif;
+        font-weight: 600;
+        text-align: center;
+    }
+}
